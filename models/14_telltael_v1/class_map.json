@@ -1,0 +1,16 @@
+{
+  "Air bag": 0,
+  "Anti-lock brake system": 1,
+  "Battery charging condition": 2,
+  "Brake failure": 3,
+  "Electronic Stability Control System OFF": 4,
+  "Engine": 5,
+  "Front fog light": 6,
+  "High beam": 7,
+  "Position lights": 8,
+  "Rear fog light": 9,
+  "Seat belt": 10,
+  "Stability control system": 11,
+  "Turn signals": 12,
+  "Tyre failure": 13
+}
