@@ -15,6 +15,7 @@ from tensorflow.keras.applications.efficientnet import preprocess_input as effic
 app = FastAPI(title="Telltale Prediction API")
 
 # Enable CORS for frontend interaction
+# Optimized for Cloud Deployment (Render/Railway)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
