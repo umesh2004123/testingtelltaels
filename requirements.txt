@@ -7,3 +7,4 @@ pillow
 numpy
 pandas
 openpyxl
+typing-extensions>=4.5.0
